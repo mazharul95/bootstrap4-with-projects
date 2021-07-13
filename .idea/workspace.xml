@@ -2,7 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b17f61f2-5d08-44c2-91d1-4abc89c341ed" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/text_alignment_display.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3_index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4_text_alignment_display.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5_floats_position.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/text_alignment_display.html" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,7 +61,7 @@
       <workItem from="1626078492646" duration="3087000" />
       <workItem from="1626082389330" duration="3027000" />
       <workItem from="1626086844595" duration="3783000" />
-      <workItem from="1626150011037" duration="11480000" />
+      <workItem from="1626150011037" duration="19251000" />
     </task>
     <servers />
   </component>
