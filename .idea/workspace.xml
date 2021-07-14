@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b17f61f2-5d08-44c2-91d1-4abc89c341ed" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/7_spacing_margin&amp;padding.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/8_sizing.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/7_spacing_margin&amp;padding.html" beforeDir="false" afterPath="$PROJECT_DIR$/7_spacing_margin&amp;padding.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,7 +61,8 @@
       <workItem from="1626082389330" duration="3027000" />
       <workItem from="1626086844595" duration="3783000" />
       <workItem from="1626150011037" duration="23748000" />
-      <workItem from="1626211026246" duration="3235000" />
+      <workItem from="1626211026246" duration="3428000" />
+      <workItem from="1626291197107" duration="3480000" />
     </task>
     <servers />
   </component>
