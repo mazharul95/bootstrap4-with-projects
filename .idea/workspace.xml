@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b17f61f2-5d08-44c2-91d1-4abc89c341ed" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/8_sizing.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/7_spacing_margin&amp;padding.html" beforeDir="false" afterPath="$PROJECT_DIR$/7_spacing_margin&amp;padding.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,6 +39,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="app.teamhub.trackedBranches" value="1i09or0/main" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../laragon/www/CrazyShirt-Design" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
@@ -62,7 +61,9 @@
       <workItem from="1626086844595" duration="3783000" />
       <workItem from="1626150011037" duration="23748000" />
       <workItem from="1626211026246" duration="3428000" />
-      <workItem from="1626291197107" duration="3480000" />
+      <workItem from="1626291197107" duration="3737000" />
+      <workItem from="1626330271049" duration="123000" />
+      <workItem from="1626457898773" duration="333000" />
     </task>
     <servers />
   </component>
