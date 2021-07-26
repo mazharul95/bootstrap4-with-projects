@@ -1,0 +1,49 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport"
+          content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title> Popovers | Bootstrap 4</title>
+    <link rel="stylesheet" href="css/bootstrap.min.css">
+</head>
+<body>
+<h1 class="display-4 text-center my-4">Popovers</h1>
+
+<div class="container">
+
+    <!-- Popovers -->
+
+
+    <br><br>
+    <!-- Tooltips with html -->
+
+    <br>
+    <hr>
+    <!-- Trigger with js -->
+
+    <!--  -->
+
+</div>
+
+<script src="js/jquery-slim.min.js"></script>
+<script src="js/popper.min.js"></script>
+<script src="js/bootstrap.min.js"></script>
+
+<script>
+    $('[data-toggle="tooltip"]').tooltip();
+    function showToolTip() {
+        $('#hello').tooltip('show');
+    }
+
+    function hideToolTip() {
+        $('#hello').tooltip('hide');
+    }
+
+    function toggleToolTip() {
+        $('#hello').tooltip('toggle');
+    }
+</script>
+</body>
+</html>

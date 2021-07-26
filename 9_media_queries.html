@@ -2,19 +2,89 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <meta name="viewport"
-          content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <title>Bootstrap 4</title>
     <link rel="stylesheet" href="css/bootstrap.min.css">
     <!--   <link rel="stylesheet" href="css/bootstrap.min.css">   -->
 
     <style>
+        /* small devices (landscape phone) */
+        @media (min-width: 576px) {
+            body{
+                background: red;
+            }
+
+        }
+        /* medium devices (tables) */
+        @media (min-width: 768px) {
+            body{
+                background: green;
+            }
+
+        }
+        /* large devices (desktop) */
+        @media (min-width: 992px) {
+            body{
+                background: lightskyblue;
+            }
+
+        }
+
+        /*Extra  large devices (large desktop) */
+        @media (min-width: 1200px) {
+            body{
+                background: hotpink;
+            }
+
+        }
+
+        /*the given screen size or  smaller */
+
+        /* large devices (desktop) (1-1199 porjonto jekono device screen black thakbe,
+        screen 1200 hoye gele override hoye are black asbe nah.) */
+        @media (max-width: 1199px) {
+            body{
+                background: brown ;
+            }
+
+        }
+        /* medium devices (tables) */
+        @media (max-width: 991px) {
+            body{
+                background: orange;
+            }
+
+        }
+        /* small devices (landscape phone) */
+        @media (max-width: 767px) {
+            body{
+                background: yellowgreen;
+            }
+
+        }
+        /*Extra small devices (portrait phone) */
+        @media (max-width: 575px) {
+            body{
+                background: blueviolet;           }
+
+        }
+
+
+
+
+        /* large devices (large desktop) */
+        @media (min-width: 1200px) {
+            body{
+                background: hotpink;
+            }
+
+        }
 
     </style>
 </head>
 <body>
-<h1 class="display-3 text-center md-4">Spacing</h1>
+<h1 class="display-3 text-center md-4">BreakPointsS</h1>
 <div class="container">
     <!--  ############# Start here ################   -->
     <!-- width classes   -->
