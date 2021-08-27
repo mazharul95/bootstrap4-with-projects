@@ -1,0 +1,67 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport"
+          content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title> Buttons | Bootstrap 4</title>
+    <link rel="stylesheet" href="css/bootstrap.min.css">
+</head>
+<body>
+<h2 class="display-4 text-center my-4">Button & Group buttons</h2>
+
+<div class="container">
+
+    <!-- Button -->
+    <button class="btn btn-primary">Group buttons</button>
+    <button class="btn btn-success">Group buttons</button>
+    <button class="btn btn-danger">Group buttons</button>
+    <button class="btn btn-warning">Group buttons</button>
+    <button class="btn btn-info">Group buttons</button>
+    <button class="btn btn-white">Group buttons</button>
+    <button class="btn btn-dark">Group buttons</button>
+    <button class="btn btn-link">link</button>
+    <button class="btn btn-secondary">buttons</button>
+
+
+
+    <br><br>
+    <!-- button tag -->
+    <a class="btn btn-primary" href="#" role="button">link</a>
+    <button class="btn btn-primary" type="submit">Button</button>
+    <input class="btn btn-primary" type="button" value="Input">
+    <input class="btn btn-primary" type="Submit" value="Submit">
+    <input class="btn btn-primary" type="Reset" value="Reset">
+
+
+    <br><br>
+    <hr>
+    <!-- Outline buttons 4:57 sec -->
+
+    <!--  -->
+
+</div>
+
+<div style="margin-top: 500px;"></div>
+
+<script src="js/jquery-slim.min.js"></script>
+<script src="js/popper.min.js"></script>
+<script src="js/bootstrap.min.js"></script>
+
+<script>
+    $('[data-toggle="tooltip"]').tooltip();
+    function showToolTip() {
+        $('#hello').tooltip('show');
+    }
+
+    function hideToolTip() {
+        $('#hello').tooltip('hide');
+    }
+
+    function toggleToolTip() {
+        $('#hello').tooltip('toggle');
+    }
+</script>
+</body>
+</html>

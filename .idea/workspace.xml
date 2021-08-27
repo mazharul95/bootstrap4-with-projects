@@ -1,9 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="b17f61f2-5d08-44c2-91d1-4abc89c341ed" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/26_popovers.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/10_button.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/11.Navbar_&amp;_Nav.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/26_popovers.html" beforeDir="false" afterPath="$PROJECT_DIR$/26_popovers.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/9_media_queries.html" beforeDir="false" afterPath="$PROJECT_DIR$/9_media_queries.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -70,7 +76,11 @@
       <workItem from="1626585696502" duration="711000" />
       <workItem from="1627278855352" duration="27000" />
       <workItem from="1627278920396" duration="15601000" />
-      <workItem from="1627322099360" duration="5915000" />
+      <workItem from="1627322099360" duration="6384000" />
+      <workItem from="1627358699545" duration="2330000" />
+      <workItem from="1627397522230" duration="1287000" />
+      <workItem from="1627444726512" duration="15000" />
+      <workItem from="1630077426188" duration="11690000" />
     </task>
     <servers />
   </component>
